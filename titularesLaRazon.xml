@@ -1,188 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Noticias>
-  <Titular titular_id="12">
-    <Titulo>Arias ratifica que sí hubo acuerdo con Santos Quispe y dice que David Castro es testigo</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/20/arias-ratifica-que-si-hubo-acuerdo-con-santos-quispe-y-dice-que-david-castro-es-testigo/</Enlace>
-    <Creacion>2021-04-20 11:16:49</Creacion>
-  </Titular>
-  <Titular titular_id="13">
-    <Titulo>Arias ratifica que sí hubo acuerdo con Santos Quispe y dice que David Castro es testigo</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/20/arias-ratifica-que-si-hubo-acuerdo-con-santos-quispe-y-dice-que-david-castro-es-testigo/</Enlace>
-    <Creacion>2021-04-20 11:18:26</Creacion>
-  </Titular>
-  <Titular titular_id="14">
-    <Titulo>Defensa rechaza declaración de obispo de San Ignacio y aclara que expropiación fue legal</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/20/defensa-rechaza-declaracion-de-obispo-de-san-ignacio-y-aclara-que-expropiacion-fue-legal/</Enlace>
-    <Creacion>2021-04-20 11:18:28</Creacion>
-  </Titular>
-  <Titular titular_id="15">
-    <Titulo>Eva Copa sobre su relación con Morales y el MAS: Antes me aplaudían, ahora me echan palo</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/19/eva-copa-sobre-su-relacion-con-morales-y-el-mas-antes-me-aplaudian-ahora-me-echan-palo/</Enlace>
-    <Creacion>2021-04-20 11:18:29</Creacion>
-  </Titular>
-  <Titular titular_id="16">
-    <Titulo>Áñez denuncia retardación en respuestas a sus solicitudes de atención médica en prisión</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/19/anez-denuncia-retardacion-en-respuestas-a-sus-solicitudes-de-atencion-medica/</Enlace>
-    <Creacion>2021-04-20 11:18:30</Creacion>
-  </Titular>
-  <Titular titular_id="17">
-    <Titulo>El TED La Paz selecciona 24 jurados para repetir balotaje en 4 mesas anuladas</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/19/el-ted-la-paz-selecciona-24-jurados-para-repetir-balotaje-en-4-mesas-anuladas/</Enlace>
-    <Creacion>2021-04-20 11:18:31</Creacion>
-  </Titular>
-  <Titular titular_id="18">
-    <Titulo>Rusia no suspenderá provisión de vacunas porque considera a Bolivia como país estratégico</Titulo>
-    <Enlace>https://www.la-razon.com/sociedad/2021/04/20/rusia-no-suspendera-provision-de-vacunas-porque-considera-a-bolivia-como-pais-estrategico/</Enlace>
-    <Creacion>2021-04-20 11:18:32</Creacion>
-  </Titular>
-  <Titular titular_id="19">
-    <Titulo>Ya casi termina el plazo para participar en el Concurso de Microcuentos del Banco Mundial</Titulo>
-    <Enlace>https://www.la-razon.com/la-revista/2021/04/20/ya-casi-termina-el-plazo-para-participar-en-el-concurso-de-microcuentos-del-banco-mundial/</Enlace>
-    <Creacion>2021-04-20 11:18:34</Creacion>
-  </Titular>
-  <Titular titular_id="20">
-    <Titulo>Llega al país el primer lote de 200.000 vacunas rusas Sputnik V para este mes</Titulo>
-    <Enlace>https://www.la-razon.com/sociedad/2021/04/20/llega-al-pais-el-primer-lote-de-200-000-vacunas-rusas-sputnik-v-para-este-mes/</Enlace>
-    <Creacion>2021-04-20 11:18:35</Creacion>
-  </Titular>
-  <Titular titular_id="21">
-    <Titulo>La UEFA y la Superliga europea ante una posible batalla judicial</Titulo>
-    <Enlace>https://www.la-razon.com/marcas/2021/04/20/la-uefa-y-la-superliga-europea-ante-una-posible-batalla-judicial/</Enlace>
-    <Creacion>2021-04-20 11:18:36</Creacion>
-  </Titular>
-  <Titular titular_id="22">
-    <Titulo>En la Cumbre Iberoamericana, Arce pide lucha conjunta contra el COVID-19 y liberar las patentes de vacunas</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/21/en-la-cumbre-iberoamericana-arce-pide-lucha-conjunta-contra-el-covid-19-y-liberar-patentes-de-vacunas/</Enlace>
-    <Creacion>2021-04-21 14:22:06</Creacion>
-  </Titular>
-  <Titular titular_id="23">
-    <Titulo>Régimen Penitenciario dice que Jeanine Áñez puede seguir su tratamiento médico desde la cárcel</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/21/regimen-penitenciario-dice-que-jeanine-anez-puede-seguir-su-tratamiento-medico-desde-la-carcel/</Enlace>
-    <Creacion>2021-04-21 14:22:07</Creacion>
-  </Titular>
-  <Titular titular_id="24">
-    <Titulo>En Naciones Unidas, Morales plantea agenda de 12 puntos para una América Plurinacional</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/21/en-naciones-unidas-morales-plantea-agenda-de-12-puntos-para-una-america-plurinacional/</Enlace>
-    <Creacion>2021-04-21 14:22:08</Creacion>
-  </Titular>
-  <Titular titular_id="25">
-    <Titulo>La directora de AASANA Arminda Choque dice que en Bolivia siguen juzgando por la apariencia</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/20/la-directora-de-aasana-arminda-choque-dice-que-en-bolivia-siguen-juzgando-por-la-apariencia/</Enlace>
-    <Creacion>2021-04-21 14:22:09</Creacion>
-  </Titular>
-  <Titular titular_id="26">
-    <Titulo>El exministro Characayo fue internado en la cárcel cruceña de Palmasola</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/20/el-exministro-characayo-fue-internado-en-la-carcel-crucena-de-palmasola/</Enlace>
-    <Creacion>2021-04-21 14:22:11</Creacion>
-  </Titular>
-  <Titular titular_id="27">
-    <Titulo>La Alcaldía espera informe de Bomberos y descarta pérdida de documentos en incendio</Titulo>
-    <Enlace>https://www.la-razon.com/ciudades/2021/04/21/la-alcaldia-espera-informe-de-bomberos-y-descarta-perdida-de-documentos-en-incendio/</Enlace>
-    <Creacion>2021-04-21 14:22:12</Creacion>
-  </Titular>
-  <Titular titular_id="28">
-    <Titulo>En su 95 cumpleaños, Isabel II agradece el apoyo recibido tras la muerte de su esposo</Titulo>
-    <Enlace>https://www.la-razon.com/mundo/2021/04/21/en-su-95-cumpleanos-isabel-ii-agradece-el-apoyo-recibido-tras-la-muerte-de-su-esposo/</Enlace>
-    <Creacion>2021-04-21 14:22:13</Creacion>
-  </Titular>
-  <Titular titular_id="29">
-    <Titulo>Varios estudiantes secuestrados tras ataque en una universidad de Nigeria</Titulo>
-    <Enlace>https://www.la-razon.com/mundo/2021/04/21/varios-estudiantes-secuestrados-tras-ataque-en-una-universidad-de-nigeria/</Enlace>
-    <Creacion>2021-04-21 14:22:14</Creacion>
-  </Titular>
-  <Titular titular_id="30">
-    <Titulo>En la Cumbre Iberoamericana, Arce pide lucha conjunta contra el COVID-19 y liberar las patentes de vacunas</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/21/en-la-cumbre-iberoamericana-arce-pide-lucha-conjunta-contra-el-covid-19-y-liberar-patentes-de-vacunas/</Enlace>
-    <Creacion>2021-04-21 14:22:15</Creacion>
-  </Titular>
-  <Titular titular_id="31">
-    <Titulo>Molina insta a bajar la tensión por el censo y no caer en un falso debate</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/21/molina-insta-a-bajar-la-tension-por-el-censo-y-no-caer-en-un-falso-debate/</Enlace>
-    <Creacion>2021-04-21 14:26:50</Creacion>
-  </Titular>
-  <Titular titular_id="32">
-    <Titulo>En la Cumbre Iberoamericana, Arce pide lucha conjunta contra el COVID-19 y liberar patentes</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/21/en-la-cumbre-iberoamericana-arce-pide-lucha-conjunta-contra-el-covid-19-y-liberar-patentes-de-vacunas/</Enlace>
-    <Creacion>2021-04-21 14:26:52</Creacion>
-  </Titular>
-  <Titular titular_id="33">
-    <Titulo>Régimen Penitenciario dice que Jeanine Áñez puede seguir su tratamiento médico desde la cárcel</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/21/regimen-penitenciario-dice-que-jeanine-anez-puede-seguir-su-tratamiento-medico-desde-la-carcel/</Enlace>
-    <Creacion>2021-04-21 14:26:53</Creacion>
-  </Titular>
-  <Titular titular_id="34">
-    <Titulo>En Naciones Unidas, Morales plantea agenda de 12 puntos para una América Plurinacional</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/21/en-naciones-unidas-morales-plantea-agenda-de-12-puntos-para-una-america-plurinacional/</Enlace>
-    <Creacion>2021-04-21 14:26:54</Creacion>
-  </Titular>
-  <Titular titular_id="35">
-    <Titulo>La directora de AASANA Arminda Choque dice que en Bolivia siguen juzgando por la apariencia</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/20/la-directora-de-aasana-arminda-choque-dice-que-en-bolivia-siguen-juzgando-por-la-apariencia/</Enlace>
-    <Creacion>2021-04-21 14:26:55</Creacion>
-  </Titular>
-  <Titular titular_id="36">
-    <Titulo>El Ministerio de Salud confirma que la variante británica circuló en el país y todavía se espera estudio sobre la brasileña</Titulo>
-    <Enlace>https://www.la-razon.com/sociedad/2021/04/21/salud-confirma-que-la-variante-britanica-circulo-en-el-pais-y-aun-se-espera-estudio-sobre-la-brasilena/</Enlace>
-    <Creacion>2021-04-21 14:26:56</Creacion>
-  </Titular>
-  <Titular titular_id="37">
-    <Titulo>Molina insta a bajar la tensión por el censo y no caer en un falso debate</Titulo>
-    <Enlace>https://www.la-razon.com/nacional/2021/04/21/molina-insta-a-bajar-la-tension-por-el-censo-y-no-caer-en-un-falso-debate/</Enlace>
-    <Creacion>2021-04-21 14:26:57</Creacion>
-  </Titular>
-  <Titular titular_id="38">
-    <Titulo>La Defensoría pide a la CNS corregir falta de información y desorganización en vacunación</Titulo>
-    <Enlace>https://www.la-razon.com/sociedad/2021/04/21/la-defensoria-pide-a-la-cns-corregir-falta-de-informacion-y-desorganizacion-en-vacunacion/</Enlace>
-    <Creacion>2021-04-21 14:26:58</Creacion>
-  </Titular>
-  <Titular titular_id="39">
-    <Titulo>El Gobierno denuncia que, en la gestión de Arias y Franco, Entel pagó $us 390.000 a firma fantasma en Perú</Titulo>
-    <Enlace>https://www.la-razon.com/economia/2021/04/21/el-gobierno-denuncia-que-en-la-gestion-de-arias-y-franco-entel-pago-us-390-000-a-firma-fantasma-en-peru/</Enlace>
-    <Creacion>2021-04-21 14:27:00</Creacion>
-  </Titular>
-  <Titular titular_id="40">
+  <Titular titular_id="58">
     <Titulo>La Asociación de Víctimas de Senkata declara persona no grata a Amparo Carvajal</Titulo>
     <Enlace>https://www.la-razon.com/nacional/2021/04/22/la-asociacion-de-victimas-de-senkata-declara-persona-no-grata-a-amparo-carvajal/</Enlace>
-    <Creacion>2021-04-22 10:24:07</Creacion>
+    <Creacion>2021-04-22 10:37:17</Creacion>
   </Titular>
-  <Titular titular_id="41">
+  <Titular titular_id="59">
     <Titulo>Desde EEUU, diputada dice que la CIDH rechaza a la repostulación indefinida</Titulo>
     <Enlace>https://www.la-razon.com/nacional/2021/04/21/desde-eeuu-diputada-dice-que-la-cidh-rechaza-a-la-repostulacion-indefinida/</Enlace>
-    <Creacion>2021-04-22 10:24:08</Creacion>
+    <Creacion>2021-04-22 10:37:19</Creacion>
   </Titular>
-  <Titular titular_id="42">
+  <Titular titular_id="60">
     <Titulo>Tras un año de pronunciarse, el TCP hace público rechazo de demanda contra la repostulación de Morales</Titulo>
     <Enlace>https://www.la-razon.com/nacional/2021/04/21/tras-un-ano-de-pronunciarse-el-tcp-hace-publico-rechazo-de-demanda-contra-la-repostulacion-de-morales/</Enlace>
-    <Creacion>2021-04-22 10:24:09</Creacion>
+    <Creacion>2021-04-22 10:37:20</Creacion>
   </Titular>
-  <Titular titular_id="43">
+  <Titular titular_id="61">
     <Titulo>Creemos de Camacho le gana la pulseta al MAS y se hace de la presidencia del Legislativo cruceño</Titulo>
     <Enlace>https://www.la-razon.com/nacional/2021/04/21/creemos-de-camacho-le-gana-la-pulseta-al-mas-y-se-hace-de-la-presidencia-del-legislativo-cruceno/</Enlace>
-    <Creacion>2021-04-22 10:24:10</Creacion>
+    <Creacion>2021-04-22 10:37:21</Creacion>
   </Titular>
-  <Titular titular_id="44">
+  <Titular titular_id="62">
     <Titulo>Eva Copa reitera que el gobierno de Jeanine Áñez fue golpista</Titulo>
     <Enlace>https://www.la-razon.com/nacional/2021/04/21/eva-copa-reitera-que-el-gobierno-de-jeanine-anez-fue-golpista/</Enlace>
-    <Creacion>2021-04-22 10:24:11</Creacion>
+    <Creacion>2021-04-22 10:37:22</Creacion>
   </Titular>
-  <Titular titular_id="45">
-    <Titulo>La FCBCB celebrará el Día del Libro con una feria</Titulo>
-    <Enlace>https://www.la-razon.com/la-revista/2021/04/22/la-fcbcb-celebrara-el-dia-del-libro-con-una-feria/</Enlace>
-    <Creacion>2021-04-22 10:24:13</Creacion>
+  <Titular titular_id="63">
+    <Titulo>En el delta del Níger, un pueblo de pescadores en la confluencia de los males del Sahel</Titulo>
+    <Enlace>https://www.la-razon.com/la-revista/2021/04/22/en-el-delta-del-niger-un-pueblo-de-pescadores-en-la-confluencia-de-los-males-del-sahel/</Enlace>
+    <Creacion>2021-04-22 10:37:23</Creacion>
   </Titular>
-  <Titular titular_id="46">
-    <Titulo>El Gobierno abroga decretos que permitían el uso de transgénicos en el país</Titulo>
-    <Enlace>https://www.la-razon.com/economia/2021/04/22/el-gobierno-abroga-decretos-que-permitian-el-uso-de-transgenicos-en-el-pais/</Enlace>
-    <Creacion>2021-04-22 10:24:14</Creacion>
+  <Titular titular_id="64">
+    <Titulo>La Asociación de Víctimas de Senkata declara persona no grata a Amparo Carvajal</Titulo>
+    <Enlace>https://www.la-razon.com/nacional/2021/04/22/la-asociacion-de-victimas-de-senkata-declara-persona-no-grata-a-amparo-carvajal/</Enlace>
+    <Creacion>2021-04-22 10:37:24</Creacion>
   </Titular>
-  <Titular titular_id="47">
-    <Titulo>Llegan los Óscar más diversos gracias a los reclamos y a la pandemia</Titulo>
-    <Enlace>https://www.la-razon.com/la-revista/2021/04/22/llegan-los-oscar-mas-diversos-gracias-a-los-reclamos-y-a-la-pandemia/</Enlace>
-    <Creacion>2021-04-22 10:24:15</Creacion>
+  <Titular titular_id="65">
+    <Titulo>Comité de la UMSA sugiere enfatizar en la ventilación e incluso usar doble barbijo</Titulo>
+    <Enlace>https://www.la-razon.com/sociedad/2021/04/22/comite-de-la-umsa-sugiere-enfatizar-en-la-ventilacion-e-incluso-usar-doble-barbijo/</Enlace>
+    <Creacion>2021-04-22 10:37:26</Creacion>
   </Titular>
-  <Titular titular_id="48">
-    <Titulo>Tamagotchi regresa renovado con cámara, pantalla a color y botones táctiles</Titulo>
-    <Enlace>https://www.la-razon.com/la-revista/2021/04/22/tamagotchi-regresa-renovado-con-camara-pantalla-a-color-y-botones-tactiles/</Enlace>
-    <Creacion>2021-04-22 10:24:16</Creacion>
+  <Titular titular_id="66">
+    <Titulo>La incertidumbre sobre la era pos-Merkel se instala en Alemania</Titulo>
+    <Enlace>https://www.la-razon.com/mundo/2021/04/22/la-incertidumbre-sobre-la-era-pos-merkel-se-instala-en-alemania/</Enlace>
+    <Creacion>2021-04-22 10:37:27</Creacion>
   </Titular>
 </Noticias>
